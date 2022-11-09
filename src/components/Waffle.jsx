@@ -91,9 +91,7 @@ const WaffleColumn = ({ columnData, label }) => (
 export const WaffleChart = () => (
   <div className="waffle-chart-container">
     {" "}
-    <div className="title">
-      Voter turnout in 2022 compared with 2018’s final count for governor
-    </div>
+    <div className="title">Hochul had fewer NYC supporters than Cuomo</div>
     <div className="description">
       Total votes counted statewide for Democratic and Republican candidates in
       2018 and 2022 New York gubernatorial elections.{" "}
