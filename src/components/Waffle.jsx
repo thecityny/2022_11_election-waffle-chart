@@ -32,7 +32,7 @@ const WaffleChartData = {
     {
       id: "upstate",
       label: "Outside NYC",
-      value: 1763463,
+      value: 1836891,
       color: LIGHT_BLUE_COLOR,
     },
   ],
@@ -60,7 +60,7 @@ const WaffleChartData = {
     {
       id: "upstate",
       label: "Outside NYC",
-      value: 2144978,
+      value: 2178528,
       color: LIGHT_RED_COLOR,
     },
   ],
